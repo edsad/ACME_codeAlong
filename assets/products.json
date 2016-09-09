@@ -1,0 +1,148 @@
+  {
+   "products": [
+    {
+        "fairy_sparklers": {
+            "id": 0,
+            "type": 0,
+            "name": "Fairy Sparklers",
+            "description": "Multi-colored sparklers that are safe for any age."
+        }
+    },
+    {
+        "snakes": {
+            "id": 1,
+            "type": 0,
+            "name": "Ash Snakes",
+            "description": "Watch the snake grow as it burns."
+        }
+    },
+    {
+        "smoke_bomb": {
+            "id": 2,
+            "type": 0,
+            "name": "Smoke Bomb",
+            "description": "Fancy colored smoke so thick, even ninjas use it."
+        }
+    },
+     {
+        "black_cat": {
+            "id": 3,
+            "type": 1,
+            "name": "Black Cat",
+            "description": "A string of loud fire-crackers that will wake up the whole neighborhood."
+        }
+    },
+    {
+        "m_80": {
+            "id": 4,
+            "type": 1,
+            "name": "M80",
+            "description": "A bigger, louder, fire-cracker."
+        }
+    },
+    {
+        "roman_candle": {
+            "id": 5,
+            "type": 1,
+            "name": "Roman Candle",
+            "description": "Colorful balls of fire to shoot friends with."
+        }
+    },
+    {
+        "cherry_bomb": {
+            "id": 6,
+            "type": 2,
+            "name": "Cherry Bomb",
+            "description": "A single mortor shell that blows up in the sky."
+        }
+    },
+    {
+        "dbl_cherry_bomb": {
+            "id": 7,
+            "type": 2,
+            "name": "Double Cherry Bomb",
+            "description": "A bigger, louder, cherry bomb!"
+        }
+    },
+    {
+        "apple_bomb": {
+            "id": 8,
+            "type": 2,
+            "name": "Apple Bomb",
+            "description": "Biggest firework explosion you've ever seen."
+        }
+    },
+    {
+        "car_bomb": {
+            "id": 9,
+            "type": 3,
+            "name": "Car Bomb",
+            "description": "Best way to LEGALLY demolish a car."
+        }
+    },
+    {
+        "truck_bomb": {
+            "id": 10,
+            "type": 3,
+            "name": "Truck Bomb",
+            "description": "Road Runner killer!"
+        }
+    },
+    {
+        "tank_killer": {
+            "id": 11,
+            "type": 3,
+            "name": "Tank Killer",
+            "description": "One Two Punch of Thermite and Dynomite."
+        }
+    },
+    {
+        "bridge_bomb": {
+            "id": 12,
+            "type": 4,
+            "name": "Bridge Bomb",
+            "description": "Burn bridges faster than your mother-in-law can."
+        }
+    },
+    {
+        "structure_bomb": {
+            "id": 13,
+            "type": 4,
+            "name": "Structure Bomb",
+            "description": "Once a structure, now a rock pile!"
+        }
+    },
+    {
+        "troll_bomb": {
+            "id": 14,
+            "type": 4,
+            "name": "Troll Bomb",
+            "description": "Evicerate all bridge-dwelling trolls!"
+        }
+    },
+    {
+        "implosion_bomb": {
+            "id": 15,
+            "type": 5,
+            "name": "Implosion Bomb",
+            "description": "Building implodes to another dimension!"
+        }
+    },
+    {
+        "standard_bomb": {
+            "id": 16,
+            "type": 5,
+            "name": "Standard Bomb",
+            "description": "Pros and Crooks love this one!"
+        }
+    },
+    {
+        "f_bomb": {
+            "id": 17,
+            "type": 5,
+            "name": "F Bomb",
+            "description": "Never have a network tv career again!"
+        }
+    }
+  ]
+}

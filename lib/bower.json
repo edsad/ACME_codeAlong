@@ -1,0 +1,20 @@
+{
+  "name": "lib",
+  "description": "",
+  "main": "Gruntfile.js",
+  "authors": [
+    "Ed Sadler <ed_lorie@comcast.net>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/edsad/ACME_codeAlong",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
